@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/land-aero-cargo/static/js/main.901db03c.chunk.js",
+    "main.js.map": "/land-aero-cargo/static/js/main.901db03c.chunk.js.map",
+    "runtime~main.js": "/land-aero-cargo/static/js/runtime~main.43c6c294.js",
+    "runtime~main.js.map": "/land-aero-cargo/static/js/runtime~main.43c6c294.js.map",
+    "static/js/2.08dabfa2.chunk.js": "/land-aero-cargo/static/js/2.08dabfa2.chunk.js",
+    "static/js/2.08dabfa2.chunk.js.map": "/land-aero-cargo/static/js/2.08dabfa2.chunk.js.map",
+    "index.html": "/land-aero-cargo/index.html",
+    "precache-manifest.e3f295803ba801dd1e68ea87413237d3.js": "/land-aero-cargo/precache-manifest.e3f295803ba801dd1e68ea87413237d3.js",
+    "service-worker.js": "/land-aero-cargo/service-worker.js"
+  }
+}
