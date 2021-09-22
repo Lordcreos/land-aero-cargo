@@ -2,6 +2,7 @@
   "name": "chakra-landing-page-part-1",
   "version": "1.0.0",
   "description": "",
+  "homepage":"https://lordcreos.github.io/land-aero-cargo/",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
@@ -9,6 +10,7 @@
     "@emotion/react": "11.1.2",
     "@emotion/styled": "11.0.0",
     "framer-motion": "2.9.5",
+    "gh-pages": "^3.2.3",
     "react": "16.12.0",
     "react-dom": "16.12.0",
     "react-icons": "^4.2.0",
@@ -19,6 +21,8 @@
     "typescript": "3.8.3"
   },
   "scripts": {
+    "predeploy":"npm run build",
+    "deply":"gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
