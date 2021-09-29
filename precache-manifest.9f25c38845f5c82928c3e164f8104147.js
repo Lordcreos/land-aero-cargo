@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "192b61d14c926d95b95baa2fe1c5f6bf",
+    "revision": "48c85b22b1a9d5c506e64537b59fc9e3",
     "url": "/land-aero-cargo/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/land-aero-cargo/static/js/2.08dabfa2.chunk.js"
   },
   {
-    "revision": "a35d543a48607b91f7b6",
-    "url": "/land-aero-cargo/static/js/main.901db03c.chunk.js"
+    "revision": "9768b0f9641c143e51d0",
+    "url": "/land-aero-cargo/static/js/main.74bc1c2e.chunk.js"
   },
   {
     "revision": "e380eb286610ccd18c3c",

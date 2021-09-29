@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/land-aero-cargo/precache-manifest.e3f295803ba801dd1e68ea87413237d3.js"
+  "/land-aero-cargo/precache-manifest.9f25c38845f5c82928c3e164f8104147.js"
 );
 
 self.addEventListener('message', (event) => {
