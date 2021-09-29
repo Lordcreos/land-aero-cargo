@@ -39,7 +39,7 @@ export default function Hero({
           as="h1"
           size="xl"
           fontWeight="bold"
-          color="primary.800"
+          color="primary.500"
           textAlign={["center", "center", "left", "left"]}
         >
           {title}
@@ -47,7 +47,7 @@ export default function Hero({
         <Heading
           as="h2"
           size="md"
-          color="primary.800"
+          color="primary.500"
           opacity="0.8"
           fontWeight="normal"
           lineHeight={1.5}
@@ -71,8 +71,8 @@ export default function Hero({
           fontSize="xs"
           mt={2}
           textAlign="center"
-          color="primary.800"
-          opacity="0.6"
+          color="primary.500"
+          opacity="0.9"
         >
           Cotiza con Nosotros.
         </Text>
